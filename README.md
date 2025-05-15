@@ -14,7 +14,7 @@ Sou graduado em engenharia e estudante de programação, com foco em desenvolvim
 ## 🚀 Projetos em destaque
 
 - [**Conversor de Moedas**](https://github.com/DevHmsr/Desafio-Conversor-de-Moedas-Alura) – Aplicação em Java que realiza conversões entre diferentes moedas com base em taxas de câmbio em tempo real.
-- [**Jogo do Número Secreto**](https://github.com/DevHmsr/Challenge-Amigo-Secreto-Alura) – Um jogo em JavaScript que sorteia automaticamente pares de amigos secretos a partir de nomes inseridos.
+- [**Jogo do Número Secreto**](https://github.com/DevHmsr/Challenge-Amigo-Secreto-Alura) – Um jogo em JavaScript que sorteia automaticamente amigos secretos a partir de nomes inseridos.
 
 ## 🌐 Conecte-se comigo
 
