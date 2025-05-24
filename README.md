@@ -1,7 +1,7 @@
 ## 👨‍💻 Sobre mim
 **Engenheiro por formação, desenvolvedor por paixão.**
 
-Sou graduado em engenharia e estudante de programação, com foco em desenvolvimento web. Tenho me dedicado a aprender através de projetos práticos e desafios que estimulam o raciocínio lógico e a criatividade.
+Sou graduado em engenharia e estudante de programação, com foco em desenvolvimento back-end. Tenho me dedicado a aprender através de projetos práticos e desafios que estimulam o raciocínio lógico e a criatividade.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devhmsr&count_private=true&show_icons=true&theme=radical" />
